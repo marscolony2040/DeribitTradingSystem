@@ -7,7 +7,7 @@ An algorithmic trading system designed using a Python server and a React.js fron
 ```shell
 python server & npm start
 ```
-![alt](https://github.com/marscolony2040/DeribitTradingSystem/blob/main/Trader.gif)
+![alt](https://github.com/marscolony2040/DeribitTradingSystem/blob/main/images/Trader.gif)
 
 ## Installation (for Mac) :apple:
 ```shell
