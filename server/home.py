@@ -120,7 +120,7 @@ class System(Misc, Strats):
                     bids, asks = await self.get_book("BTC-PERPETUAL", 15)
                     bW, sW = await self.api.db.check_for_walls(bids, asks)
 
-                    await self.strategyOne(ws, tick, rsi, bW, sW)
+                    #await self.strategyOne(ws, tick, rsi, bW, sW)
 
 
                 # Update Order States
